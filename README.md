@@ -2,7 +2,7 @@
 by: Alexander Feil, Dorothy Janick, Isabella Lu
 
 ## Data
-https://drive.google.com/file/d/11xGo0jV6E4JNEx1tpjlsmQNyB0nEgaYA/view?usp=sharing
+Our filtered dataset can be accessed [here](https://drive.google.com/file/d/11xGo0jV6E4JNEx1tpjlsmQNyB0nEgaYA/view?usp=sharing). (Use LionMail)
 
 ## File Information
 1) a) Initial data processing
