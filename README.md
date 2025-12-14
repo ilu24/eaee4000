@@ -1,11 +1,16 @@
-# eaee4000
+# EAEE4000: Machine Learning for Environmental Engineering Final Project
+by: Alexander Feil, Dorothy Janick, Isabella Lu
 
-To get the dataset, run
-`
-wget -O FPA_FOD_Plus.csv "https://zenodo.org/records/8381129/files/FPA_FOD_Plus.csv?download=1"
-`
-SMALLER VERSION
-`
-wget -O FPA_FOD_reduced.csv "https://leap.2i2c.cloud/hub/user-redirect/lab/tree/LEAP%20EAEE4001/project/FPA-FOD_reduced.csv"
-`
-in the git repo!
+## Data
+https://drive.google.com/file/d/11xGo0jV6E4JNEx1tpjlsmQNyB0nEgaYA/view?usp=sharing
+
+## File Information
+1) a) Initial data processing
+   b) Processing attributes to match Pourmohamad's paper
+2) Filtering by cause, encoding, and initial Random Forest network
+3) Neural Network
+4) Kmeans Clustering on 1a) initial data & 1b) filtered data
+5) Feature Correlation test
+6) XGBoost & SHAP Analysis
+7) New RF Model on 1b) data
+8) Tab PFN
